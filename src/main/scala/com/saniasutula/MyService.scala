@@ -1,7 +1,6 @@
 package com.saniasutula
 
 import akka.actor.Actor
-import com.saniasutula.utils.ConfigUtils
 import org.slf4j.LoggerFactory
 import spray.http.MediaTypes._
 import spray.routing.HttpService
